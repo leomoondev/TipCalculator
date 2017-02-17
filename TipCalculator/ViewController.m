@@ -10,6 +10,8 @@
 
 @interface ViewController ()
 
+@property(nonatomic, retain) UITextField *userName;
+
 @end
 
 @implementation ViewController
